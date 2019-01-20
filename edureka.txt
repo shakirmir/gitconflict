@@ -1,1 +1,1 @@
-welcome to continuos integration tool git in CI CD pipeline in Devops 
+ continuos integration tool git in CI CD pipeline in Devops 
